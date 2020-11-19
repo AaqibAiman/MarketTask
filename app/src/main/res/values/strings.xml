@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Market Task</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Map</string>
+    <string name="title_notifications">Lists</string>
+    <string name="details_notifications">Details </string>
+</resources>
